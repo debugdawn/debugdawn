@@ -8,15 +8,28 @@
 
 ## 🧰 Tech Stack
 
+✨ In order (kind of) of expertise. 
+
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-%23512BD4.svg?style=flat&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%237059A1?style=flat&logo=.net&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=postgresql&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%237059A1?style=flat&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+
+---
+
+## 👩🏾‍💻 Technologies
+
+- Power BI
+- Salesforce
+- Jira
+- Zoho
+- Microsoft Office
 
 ---
 
@@ -26,7 +39,7 @@
 🗒️ A basic to do and event planner app.
 
 ### ✨ [Glazed Skincare](https://github.com/debugdawn/glazed-skincare)  
-🍩 A basic to do and event planner app.
+🍩 A e-commerce website for skincare. 
 
 ### ✨ [Kronically](https://github.com/debugdawn/kronically)  
 🎬 A media tracking web app that lets users browse and save books and music — powered by TMDb and Google Books (in progress)
