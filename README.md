@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tapiwa Dawn
 
 🎓 Software Engineering Graduate  
-💻 Full-Stack Developer | 🛡️ Cybersecurity Enthusiast | 📊 Former Data Analyst Intern  
+💻 Software Developer | 🛡️ Cybersecurity Enthusiast | 📊 Former Data Analyst 
 🌍 Passionate about building secure, scalable, and impactful software solutions
 
 ---
@@ -72,8 +72,8 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tapiwamataruse2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tapiwa-mataruse-858060210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
 
 ---
 
