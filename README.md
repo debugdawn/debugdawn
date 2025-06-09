@@ -41,6 +41,9 @@
 ### ✨ [Glazed Skincare](https://github.com/debugdawn/glazed-skincare)  
 🍩 A e-commerce website for skincare. 
 
+### ✨ [AssistBox](https://github.com/debugdawn/assitbox)  
+🤖 A chat bot for a skincare e-commerce website. 
+
 ### ✨ [Kronically](https://github.com/debugdawn/kronically)  
 🎬 A media tracking web app that lets users browse and save books and music — powered by TMDb and Google Books (in progress)
 
